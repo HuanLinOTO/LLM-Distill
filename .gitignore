@@ -1,0 +1,7 @@
+*.txt
+data/*
+trash/*
+
+__pycache__/
+**/__pycache__/
+cz.py
